@@ -1,0 +1,1 @@
+Repozytorium zawiera pliki i prezentację ze spotkania Woman in Technology Gdańsk #7
