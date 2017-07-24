@@ -37,11 +37,10 @@ print("Sending request...")
 solutions = my_trip.send_sync()
 
 print("Dumping data")
-with open("results2.pckl", "wb") as file:
+with open("results_3.pckl", "wb") as file:
     pickle.dump(solutions, file)
 
 print("Done.")
 
 # print formatted output
 print_results(solutions)
-

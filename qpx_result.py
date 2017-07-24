@@ -8,4 +8,3 @@ with open("results.pckl", "rb") as file:
 assert isinstance(answer, Result)
 
 print_results(answer)
-
